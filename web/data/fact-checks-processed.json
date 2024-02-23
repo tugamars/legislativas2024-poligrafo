@@ -1,5 +1,5 @@
 {
-    "lastUpdate": 1708447513977,
+    "lastUpdate": 1708620346756,
     "candidatos": {
         "PNS": {
             "partido": "PS",
@@ -7,11 +7,12 @@
             "nome": "Pedro Nuno Santos",
             "sum": {
                 "true-but": 7,
-                "true": 9,
-                "false": 3
+                "true": 10,
+                "false": 4,
+                "imprecise": 1
             },
-            "totalArtigos": 19,
-            "points": 19
+            "totalArtigos": 22,
+            "points": 25
         },
         "AV": {
             "partido": "CH",
@@ -20,11 +21,11 @@
             "sum": {
                 "true-but": 2,
                 "true": 6,
-                "false": 9,
+                "false": 10,
                 "imprecise": 1
             },
-            "totalArtigos": 18,
-            "points": 40
+            "totalArtigos": 19,
+            "points": 44
         },
         "RR": {
             "partido": "IL",
@@ -46,10 +47,11 @@
             "sum": {
                 "true-but": 4,
                 "false": 3,
-                "true": 2
+                "true": 2,
+                "decontextualized": 1
             },
-            "totalArtigos": 9,
-            "points": 16
+            "totalArtigos": 10,
+            "points": 19
         },
         "PR": {
             "partido": "CDU",
@@ -57,10 +59,10 @@
             "nome": "Paulo Raimundo",
             "sum": {
                 "true-but": 1,
-                "true": 6,
+                "true": 7,
                 "false": 1
             },
-            "totalArtigos": 8,
+            "totalArtigos": 9,
             "points": 5
         },
         "LM": {
@@ -70,10 +72,10 @@
             "sum": {
                 "true": 9,
                 "false": 6,
-                "true-but": 1
+                "true-but": 2
             },
-            "totalArtigos": 16,
-            "points": 25
+            "totalArtigos": 17,
+            "points": 26
         },
         "MM": {
             "partido": "BE",
@@ -81,12 +83,12 @@
             "nome": "Mariana Mortágua",
             "sum": {
                 "false": 3,
-                "true": 9,
-                "true-but": 1,
+                "true": 10,
+                "true-but": 2,
                 "decontextualized": 1
             },
-            "totalArtigos": 14,
-            "points": 16
+            "totalArtigos": 16,
+            "points": 17
         },
         "RT": {
             "partido": "L",
@@ -1354,6 +1356,171 @@
             "page": 2,
             "candidato": "AV",
             "evaluation": false,
+            "confidenceLevel": 0
+        },
+        {
+            "url": "/fact-check/caravana-de-campanha-do-chega-foi-recebida-por-tiros-em-famalicao-como-alega-ventura",
+            "title": "Caravana de campanha do Chega foi recebida por tiros em Famalicão, como alega Ventura?",
+            "excerpt": "Nos últimos dias, têm sido comuns as partilhas nas redes sociais de André Ventura sobre ataques ao seu partido. Ora são vidros partidos, ora são militantes agredidos. Agora, a história é mais grave: Ventura afirmou esta quarta-feira que o veículo de campanha do Chega foi recebido por tiros durante a sua passagem por Famalicão. Segundo as forças policiais, eram na verdade \"rateres\" de uma mota que acompanhava a comitiva.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "AV",
+            "evaluation": "false",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/antonio-costa-diz-que-liberais-querem-taxar-jovens-agora-isentos-no-primeiro-ano-de-irs-em-15-e-verdade",
+            "title": "António Costa diz que liberais querem taxar jovens - agora isentos no primeiro ano de IRS - em 15%. É verdade?",
+            "excerpt": "Em declarações raras por estes dias, o Primeiro-Ministro demissionário afirmou esta quarta-feira, à margem da apresentação do livro de Miguel Costa Matos, que o Iniciativa Liberal (IL) é pouco amigo dos jovens. Na qualidade de ex-líder socialista, António Costa argumentou: \"Não vou discutir a demagogia do IRS a 15% para todos, mas o IRS Jovem, no primeiro ano, é de zero por cento.\"",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": null,
+            "evaluation": "true",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-tribunal-constitucional-chumbou-tentativas-do-psd-para-que-os-cortes-das-pensoes-fossem-permanentes",
+            "title": "Pedro Nuno Santos: Tribunal Constitucional chumbou “tentativas” do PSD “para que os cortes [das pensões] fossem permanentes”",
+            "excerpt": "A campanha para as eleições legislativas de 10 de março ainda não começou oficialmente, mas os vários partidos começam já a percorrer o país, de Norte a Sul, com vista a angariar apoio para o decisivo escrutínio. Num comício em Vila Real, esta noite, Pedro Nuno Santos acusou o PSD de “tentativas” para que os cortes nas pensões “fossem permanentes”, que terão até sido chumbadas pelo Tribunal Constitucional. Verdade ou mentira?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "PNS",
+            "evaluation": "true",
+            "confidenceLevel": 0
+        },
+        {
+            "url": "/fact-check/luis-montenegro-pedro-nuno-santos-e-mais-14-demitiram-se-durante-dois-anos-de-maioria-absoluta",
+            "title": "Luís Montenegro: \"Pedro Nuno Santos e mais 14 demitiram-se durante dois anos de maioria absoluta\"",
+            "excerpt": "O líder do PSD quis ripostar as acusações do adversário de que a \"a direita é a bagunça\" que \"teria consequências em Portugal\". Esta tarde, em declarações aos jornalistas, Luís Montenegro defendeu que a \"bagunça interna\" do PS, essa sim, está \"mais que demonstrada\" e prova disso são as 15 demissões no governo de maioria absoluta. Mas terá o social-democrata feito bem as contas? ",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "LM",
+            "evaluation": "true-but",
+            "confidenceLevel": 0
+        },
+        {
+            "url": "/fact-check/mariana-mortagua-destaca-aumento-do-numero-de-pessoas-sem-medico-de-familia-subida-do-preco-das-casas-e-perda-de-poder-de-compra-em-dois-anos-tem-razao",
+            "title": "Mortágua destaca \"aumento do número de pessoas sem médico de família\", subida do \"preço das casas\" e \"perda de poder de compra\" em dois anos. Tem razão?",
+            "excerpt": "Em período de pré-campanha, os líderes partidários têm-se dividido entre debates televisivos, declarações públicas e entrevistas à comunicação social. Ao Jornal de Notícias (JN), a bloquista Mariana Mortágua destacou aquilo que considerou serem as consequências nefastas de “dois anos de governação de maioria absoluta”. Será que utilizou os argumentos corretos?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "MM",
+            "evaluation": "true-but",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/hugo-soares-fomos-portugal-ultrapassados-pela-romenia-e-pela-polonia-verdade-ou-mentira",
+            "title": "Hugo Soares: “Fomos [Portugal] ultrapassados pela Roménia e pela Polónia.” Verdade ou mentira?",
+            "excerpt": "O secretário-geral do PSD, foi um dos convidados do programa “Isto é Gozar com Quem Trabalha – Especial Eleições”, de Ricardo Araújo Pereira, na segunda-feira, a par da cabeça-de-lista do PS em Setúbal, Ana Catarina Mendes. Em momento de contradição entre ambos, houve, inclusive, um pedido de fact-check. A que o Polígrafo acedeu.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": null,
+            "evaluation": "true-but",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/mariana-mortagua-na-cnn-mais-de-80-dos-cheques-cirurgia-fica-por-utilizar",
+            "title": "Mariana Mortágua na CNN: \"Mais de 80% dos cheques-cirurgia fica por utilizar\"",
+            "excerpt": "Em entrevista à CNN Portugal, ontem à noite, a coordenadora do Bloco de Esquerda rejeitou ter um \"preconceito\" em relação aos privados no setor da Saúde, mas argumentou que o problema é que \"o sistema tende a ser muito mais caro, sem garantir um melhor atendimento\". E sobre isto, Mortágua deu o exemplo dos vales-cirurgia que ficam por utilizar. Serão desperdiçados \"mais de 80%\", como apontou a bloquista?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": "MM",
+            "evaluation": "true",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-disse-que-reformas-do-governo-nao-encheram-as-televisoes-de-polemicas-ou-as-ruas-de-manifestacoes-e-verdade",
+            "title": "Pedro Nuno Santos disse que reformas do Governo não encheram \"as televisões de polémicas ou as ruas de manifestações\". É verdade?",
+            "excerpt": "Na última semana as forças de segurança, há uns meses os proprietários de alojamento local e pouco antes de o Governo cair os visados pelo aumento do IUC (que não chegou a acontecer). Afinal, que reformas (ou quase-reformas) do Governo levaram os portugueses à rua? E porquê?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": "PNS",
+            "evaluation": "false",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/paulo-raimundo-custo-medio-dos-salarios-dos-trabalhadores-para-as-empresas-e-de-14",
+            "title": "Paulo Raimundo diz que custo médio dos trabalhadores para as empresas ronda os 14%. É verdade?",
+            "excerpt": "Em entrevista à CNN Portugal, na noite desta quarta-feira, o secretário-geral dos comunistas pôs fim à ainda incerta \"geringonça\" - pelo menos igual a 2015 - e classificou o PS como um partido pouco confiável. Em termos de dados, Paulo Raimundo referiu, por exemplo, que o custo médio dos salários dos trabalhadores para as empresas é de apenas 14% das despesas totais. Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": "PR",
+            "evaluation": "true",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/imagem-de-noticia-que-revela-que-pai-de-rita-matias-desviou-500-mil-euros-de-ipss-e-real",
+            "title": "Imagem de notícia que revela que pai de Rita Matias desviou 500 mil euros de IPSS é real?",
+            "excerpt": "A deputada do Chega recorreu ao X para desmentir uma suposta notícia em que se destaca que o pai, Manuel Matias, ex-assessor do Chega, terá admitido que desviou 500 mil euros de uma IPSS. A imagem da notícia está a ser partilhada nas redes sociais desde há anos, mas não passa de uma falsificação.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": null,
+            "evaluation": "false",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/miguel-relvas-nao-ha-sondagem-nenhuma-em-que-o-partido-socialista-passe-dos-30",
+            "title": "Miguel Relvas na CNN: \"Não há sondagem nenhuma em que o Partido Socialista passe dos 30%\"",
+            "excerpt": "Se há alguns meses a afirmação do ex-ministro Adjunto e dos Assuntos Parlamentares era verdadeira, as últimas sondagens desmentem Miguel Relvas: o PS tem subido nas intenções de voto e ultrapassa largamente a fasquia dos 30% (em alguns estudos, a par com a Aliança Democrática).",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": null,
+            "evaluation": "false",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/programa-eleitoral-bloco-de-esquerda-quer-investir-apenas-15-mil-euros-por-casa",
+            "title": "Programa eleitoral: Bloco de Esquerda quer investir apenas 15 mil euros por habitação?",
+            "excerpt": "Apresentação de contas dos bloquistas acabou por gerar dúvidas nas redes sociais: afinal, quanto quer investir o Bloco de Esquerda na habitação? E será que os 1.200 milhões de euros resultam num investimento de apenas 15 mil euros por casa?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-decontextualized",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": null,
+            "evaluation": "decontextualized",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/ps-votou-contra-classificacao-de-bombeiro-como-profissao-de-desgaste-rapido-onde-se-insere-por-exemplo-a-de-bailarino",
+            "title": "PS votou contra classificação de bombeiro como profissão de desgaste rápido (onde se insere, por exemplo, a de bailarino)?",
+            "excerpt": "Projeto de lei do PAN entrou na Assembleia da República (AR) ainda em agosto de 2022, mas só foi votado na generalidade em julho do último ano: nessa ocasião, socialistas aprovaram o reconhecimento aos bombeiros profissionais do estatuto de profissão de risco e de desgaste rápido. Em janeiro deste ano, porém, na especialidade, votaram contra a iniciativa do PAN.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": null,
+            "evaluation": "true",
+            "confidenceLevel": -1
+        },
+        {
+            "url": "/fact-check/ines-sousa-real-diz-que-goncalo-da-camara-pereira-acha-legitimo-bater-numa-mulher-confirma-se",
+            "title": "Inês Sousa Real diz que Gonçalo da Câmara Pereira \"acha legítimo bater numa mulher\". Confirma-se?",
+            "excerpt": "Em entrevista ao \"Jornal de Notícias\", Sousa Real justificou que sendo o PAN \"um partido que respeita os direitos humanos e, em particular, os das mulheres\", não pode \"aliar-se a uma força política que tem alguém\" como Gonçalo da Câmara Pereira que \"acha legítimo bater numa mulher\". Por isso rejeita qualquer acordo com a Aliança Democrática. A acusação dirigida ao líder do PPM é grave, mas terá fundamento?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-decontextualized",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": "ISR",
+            "evaluation": "decontextualized",
+            "confidenceLevel": 1
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-na-ligacao-entre-lisboa-e-porto-os-comboios-estao-lotados",
+            "title": "Pedro Nuno Santos: \"Na ligação entre Lisboa e Porto os comboios estão lotados\"",
+            "excerpt": "Numa entrevista ao \"Geração 70\", um \"podcast\" do jornal \"Expresso\" e SIC Notícias, em que admitiu não saber o preço atual de um bilhete de comboio \"Intercidades\" entre Lisboa e Porto, o ex-ministro das Infraestruturas garantiu que nessa linha \"os comboios estão lotados. Não há espaço nem para mais comboios, nem há mais lotação\". Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-imprecise",
+            "category": "/fact-checks/politica",
+            "page": 7,
+            "candidato": "PNS",
+            "evaluation": "imprecise",
             "confidenceLevel": 0
         }
     ]
