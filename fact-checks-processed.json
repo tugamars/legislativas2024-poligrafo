@@ -1,17 +1,17 @@
 {
-    "lastUpdate": 1708797305190,
+    "lastUpdate": 1709467414807,
     "candidatos": {
         "PNS": {
             "partido": "PS",
             "candidato": "PNS",
             "nome": "Pedro Nuno Santos",
             "sum": {
-                "false": 4,
+                "false": 5,
                 "true-but": 7,
-                "true": 9
+                "true": 10
             },
-            "totalArtigos": 20,
-            "points": 23
+            "totalArtigos": 22,
+            "points": 27
         },
         "AV": {
             "partido": "CH",
@@ -20,25 +20,25 @@
             "sum": {
                 "true": 6,
                 "decontextualized": 1,
-                "false": 10,
-                "true-but": 2,
+                "false": 11,
+                "true-but": 3,
                 "imprecise": 1
             },
-            "totalArtigos": 20,
-            "points": 47
+            "totalArtigos": 22,
+            "points": 52
         },
         "RR": {
             "partido": "IL",
             "candidato": "RR",
             "nome": "Rui Rocha",
             "sum": {
-                "true": 8,
-                "true-but": 2,
+                "true": 9,
+                "true-but": 3,
                 "false": 1,
                 "imprecise": 1
             },
-            "totalArtigos": 12,
-            "points": 8
+            "totalArtigos": 14,
+            "points": 9
         },
         "ISR": {
             "partido": "PAN",
@@ -46,22 +46,22 @@
             "nome": "Inês Sousa Real",
             "sum": {
                 "true": 3,
-                "true-but": 4,
+                "true-but": 5,
                 "false": 3
             },
-            "totalArtigos": 10,
-            "points": 16
+            "totalArtigos": 11,
+            "points": 17
         },
         "PR": {
             "partido": "CDU",
             "candidato": "PR",
             "nome": "Paulo Raimundo",
             "sum": {
-                "true": 6,
+                "true": 7,
                 "true-but": 1,
                 "false": 1
             },
-            "totalArtigos": 8,
+            "totalArtigos": 9,
             "points": 5
         },
         "LM": {
@@ -69,37 +69,37 @@
             "candidato": "LM",
             "nome": "Luís Montenegro",
             "sum": {
-                "true": 11,
+                "true": 14,
                 "decontextualized": 1,
                 "true-but": 2,
-                "false": 6
+                "false": 8
             },
-            "totalArtigos": 20,
-            "points": 29
+            "totalArtigos": 25,
+            "points": 37
         },
         "MM": {
             "partido": "BE",
             "candidato": "MM",
             "nome": "Mariana Mortágua",
             "sum": {
-                "true": 10,
+                "true": 11,
                 "true-but": 2,
-                "false": 3,
+                "false": 4,
                 "decontextualized": 1
             },
-            "totalArtigos": 16,
-            "points": 17
+            "totalArtigos": 18,
+            "points": 21
         },
         "RT": {
             "partido": "L",
             "candidato": "RT",
             "nome": "Rui Tavares",
             "sum": {
-                "true": 8,
+                "true": 9,
                 "false": 1,
                 "decontextualized": 1
             },
-            "totalArtigos": 10,
+            "totalArtigos": 11,
             "points": 7
         }
     },
@@ -114,7 +114,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-nunca-um-partido-que-nao-ps-e-psd-alcancou-20-dos-votos-em-legislativas",
@@ -126,7 +126,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-80-dos-cheques-cirurgia-ficam-por-utilizar",
@@ -138,7 +138,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-nao-e-verdade-que-a-romenia-esteja-a-ultrapassar-portugal",
@@ -150,7 +150,7 @@
             "candidato": "PNS",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-governo-do-ps-colocou-portugal-com-a-9-a-maior-carga-fiscal-da-ocde-sobre-o-trabalho",
@@ -162,7 +162,7 @@
             "candidato": "AV",
             "evaluation": "decontextualized",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-psd-defende-regulamentacao-do-lobby-mas-adiou-a-legislacao-no-parlamento",
@@ -174,7 +174,7 @@
             "candidato": "ISR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-andre-ventura-convidou-miguel-albuquerque-para-ser-principal-pilar-da-sua-campanha-presidencial",
@@ -186,7 +186,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-eu-nao-pedi-a-demissao-de-antonio-costa",
@@ -198,7 +198,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-acusa-luis-montenegro-de-incoerencia-nas-reacoes-aos-casos-de-antonio-costa-e-de-miguel-albuquerque-confirma-se",
@@ -210,7 +210,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/video-no-instagram-pedro-nuno-santos-prometeu-que-vai-roubar-portugal-inteiro",
@@ -222,7 +222,7 @@
             "candidato": "",
             "evaluation": "manipulated",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/miguel-pinto-luz-quem-criou-o-modelo-de-ppp-na-saude-foi-o-ps-e-em-pleno-seculo-xxi-tem-quase-aversao",
@@ -234,7 +234,7 @@
             "candidato": "",
             "evaluation": "true-but",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/mariana-vieira-da-silva-ha-10-anos-o-psd-propos-fazer-cortes-definitivos-nos-salarios-da-funcao-publica",
@@ -246,7 +246,7 @@
             "candidato": "",
             "evaluation": "true-but",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/partidos-politicos-podem-ter-acesso-a-morada-dos-eleitores-que-votem-no-circulo-da-europa-para-fins-de-campanha-eleitoral",
@@ -258,7 +258,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/imagem-de-porta-voz-da-plataforma-dos-policias-com-deputado-do-chega-e-autentica-e-recente",
@@ -270,7 +270,7 @@
             "candidato": "",
             "evaluation": "decontextualized",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/luis-montenegro-todos-os-cidadaos-de-cascais-tem-acesso-a-medicina-familiar",
@@ -282,7 +282,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-fez-tres-declaracoes-diferentes-quanto-a-viabilizar-governo-com-psd",
@@ -294,7 +294,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/miranda-sarmento-portugal-e-o-pais-da-coesao-que-menos-vai-crescer-nos-proximos-quatro-anos",
@@ -306,7 +306,7 @@
             "candidato": "",
             "evaluation": false,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/luis-montenegro-diz-que-foram-construidos-32-hospitais-privados-e-zero-hospitais-publicos-em-oito-anos-de-governo-e-verdade",
@@ -318,7 +318,7 @@
             "candidato": "LM",
             "evaluation": "decontextualized",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/caravana-de-campanha-do-chega-foi-recebida-por-tiros-em-famalicao-como-alega-ventura",
@@ -330,7 +330,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/antonio-costa-diz-que-liberais-querem-taxar-jovens-agora-isentos-no-primeiro-ano-de-irs-em-15-e-verdade",
@@ -342,7 +342,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-tribunal-constitucional-chumbou-tentativas-do-psd-para-que-os-cortes-das-pensoes-fossem-permanentes",
@@ -354,7 +354,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/luis-montenegro-pedro-nuno-santos-e-mais-14-demitiram-se-durante-dois-anos-de-maioria-absoluta",
@@ -366,7 +366,7 @@
             "candidato": "LM",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/mariana-mortagua-destaca-aumento-do-numero-de-pessoas-sem-medico-de-familia-subida-do-preco-das-casas-e-perda-de-poder-de-compra-em-dois-anos-tem-razao",
@@ -378,7 +378,7 @@
             "candidato": "MM",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/hugo-soares-fomos-portugal-ultrapassados-pela-romenia-e-pela-polonia-verdade-ou-mentira",
@@ -390,7 +390,7 @@
             "candidato": "",
             "evaluation": "true-but",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/andre-ventura-na-cmtv-o-irc-e-pago-por-20-das-empresas",
@@ -402,7 +402,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-pedro-nuno-santos-disse-nao-se-lembrar-da-indemnizacao-a-alexandra-reis-que-o-proprio-aprovara",
@@ -414,7 +414,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-os-privados-nao-quiseram-renovar-as-ppp-do-setor-da-saude",
@@ -426,7 +426,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-em-2010-o-engenheiro-socrates-congelou-as-pensoes-incluindo-as-minimas",
@@ -438,7 +438,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-psd-propoe-atingir-os-1-750-euros-de-salario-medio-em-2030-mas-acordo-de-rendimentos-ja-previa-isso-para-2027",
@@ -450,7 +450,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-nao-ha-nenhum-pensionista-que-tenha-perdido-um-centimo-de-pensao",
@@ -462,7 +462,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-nao-e-verdade-que-mais-de-metade-dos-alunos-a-frequentar-o-privado-estejam-no-ensino-profissional",
@@ -474,7 +474,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-o-abandono-escolar-caiu-de-137-em-2015-para-8-em-2023",
@@ -486,7 +486,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-em-2018-pedro-nuno-santos-prometeu-habitacao-para-todos-nos-50-anos-do-25-de-abril",
@@ -498,7 +498,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-governo-do-ps-bateu-todos-os-anos-o-recorde-em-termos-de-carga-fiscal",
@@ -510,7 +510,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-foi-pela-mao-do-pan-que-se-esta-a-financiar-os-passes-sociais-com-a-taxa-de-carbono-sobre-a-aviacao",
@@ -522,7 +522,7 @@
             "candidato": "ISR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-um-diretor-de-turma-ganha-o-mesmo-do-que-quem-nao-tem-direcao",
@@ -534,7 +534,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-as-pessoas-que-ganham-1-000-euros-de-salario-ja-pagam-irs",
@@ -546,7 +546,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/distritos-do-litoral-elegem-175-deputados-enquanto-distritos-do-interior-elegem-apenas-40",
@@ -558,7 +558,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-pcp-votou-contra-medidas-como-o-limite-de-renovacao-dos-trabalhos-temporarios-e-o-aumento-da-licenca-de-parentalidade",
@@ -570,7 +570,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-montenegro-ps-e-chega-propoem-garantia-do-estado-de-100-do-capital-em-emprestimos-bancarios-para-habitacao",
@@ -582,7 +582,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-em-2013-portugal-estava-no-pior-lugar-da-tabela-na-resolucao-de-casos-nao-criminais-com-cerca-de-tres-anos",
@@ -594,7 +594,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-temos-3-milhoes-de-trabalhadores-que-ganham-ate-1-000-euros-de-salario-bruto-por-mes",
@@ -606,7 +606,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-em-2022-o-partido-socialista-cortou-mil-milhoes-de-euros-no-sistema-de-pensoes",
@@ -618,7 +618,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-foi-deputado-do-chega-quem-comecou-a-utilizar-os-meus-filhos-como-arma-de-arremesso-politico",
@@ -630,7 +630,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ventura-acusou-livre-de-votar-100-vezes-ao-lado-do-ps-mas-chega-votou-ainda-mais",
@@ -642,7 +642,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-medicos-do-sns-estao-obrigados-a-fazer-250-horas-extraordinarias-de-trabalho",
@@ -654,7 +654,7 @@
             "candidato": "MM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-rui-tavares-diz-que-defende-o-aumento-de-prazos-de-prescricao-mas-votou-contra-proposta-do-chega",
@@ -666,7 +666,7 @@
             "candidato": "AV",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-deputado-do-chega-lancou-falsidade-de-que-livre-foi-financiado-por-george-soros-em-300-mil-euros",
@@ -678,7 +678,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-disse-em-novembro-que-baixar-juros-da-cgd-fazia-sentido-mas-agora-diz-que-e-uma-medida-que-nao-funciona",
@@ -690,7 +690,7 @@
             "candidato": "",
             "evaluation": "true-but",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-o-lider-de-referencia-de-andre-ventura-tem-como-referencia-vladimir-putin",
@@ -702,7 +702,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-em-portugal-20-da-populacao-prisional-esta-em-prisao-preventiva",
@@ -714,7 +714,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/be-propoe-direito-de-voto-a-qualquer-imigrante-que-esteja-em-portugal-desde-que-tenha-autorizacao-de-residencia",
@@ -726,7 +726,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/paulo-raimundo-tivemos-oportunidade-de-reverter-concessao-do-servico-postal-mas-pedro-nuno-santos-optou-por-renovar",
@@ -738,7 +738,7 @@
             "candidato": "PR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-bloco-votou-contra-proposta-que-baixava-irs-apenas-para-os-cinco-primeiros-escaloes",
@@ -750,7 +750,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-sobre-hospital-de-braga-tribunal-de-contas-disse-que-houve-aumento-das-listas-de-espera-e-que-a-entidade-gestora-operava-em-falencia-tecnica",
@@ -762,7 +762,7 @@
             "candidato": "MM",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-bloco-de-esquerda-propoe-nacionalizacao-da-ren-edp-galp-ctt-e-ana",
@@ -774,7 +774,7 @@
             "candidato": "RR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-iniciativa-liberal-esteve-contra-travar-injecao-de-476-milhoes-de-euros-no-novo-banco",
@@ -786,7 +786,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/andre-ventura-juntou-se-a-viktor-orban-para-uma-fotografia-frente-a-uma-suastica-nazi",
@@ -798,7 +798,7 @@
             "candidato": "",
             "evaluation": "manipulated",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-entre-2008-e-2021-foram-entregues-a-banca-30-mil-milhoes-de-euros",
@@ -810,7 +810,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-il-nao-nos-acompanhou-quando-propusemos-diminuir-as-comissoes-bancarias",
@@ -822,7 +822,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-andre-ventura-foi-condenado-por-difamacao-e-recorreu",
@@ -834,7 +834,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-diz-que-pedro-nuno-santos-foi-colega-de-governo-de-manuel-pinho-confirma-se",
@@ -846,7 +846,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-ps-apresenta-como-grande-solucao-para-a-habitacao-um-aumento-de-50e-nas-deducoes-de-irs",
@@ -858,7 +858,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-programa-do-ps-nao-diz-uma-palavra-sobre-apreensao-e-confisco-de-bens",
@@ -870,7 +870,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-andre-ventura-faltou-a-votacao-do-pacote-anticorrupcao-porque-preferiu-estar-num-evento-da-extrema-direita",
@@ -882,7 +882,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-livre-votou-contra-proposta-de-revisao-extraordinaria-da-constituicao",
@@ -894,7 +894,7 @@
             "candidato": "ISR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/como-o-chega-o-pcp-tambem-propoe-greve-nas-forcas-policiais",
@@ -906,7 +906,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-por-cada-euro-que-um-imigrante-recebe-em-portugal-paga-sete-a-seguranca-social",
@@ -918,7 +918,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mortagua-ventura-propos-cortar-400-milhoes-em-ideologia-de-genero-que-inclui-protecao-a-vitimas-de-violencia-domestica",
@@ -930,7 +930,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-a-uniao-europeia-teve-um-milhao-de-pedidos-de-asilo-no-ano-passado",
@@ -942,7 +942,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-programa-eleitoral-do-chega-nao-se-refere-uma-unica-vez-a-offshores",
@@ -954,7 +954,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-programa-do-bloco-de-esquerda-nao-se-preocupa-em-construir-mais-habitacao",
@@ -966,7 +966,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-lembra-que-gnr-levou-a-cabo-golpe-de-estado-na-primeira-republica-e-verdade",
@@ -978,7 +978,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-acusa-uniao-europeia-de-ter-condicionado-o-estado-portugues-para-a-privatizacao-da-tap-confirma-se",
@@ -990,7 +990,7 @@
             "candidato": "PR",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/andre-ventura-do-ponto-de-vista-da-justica-nada-mudou-no-nosso-programa",
@@ -1002,7 +1002,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-acusa-luis-montenegro-de-reagir-de-forma-diferente-aos-casos-de-antonio-costa-e-de-miguel-albuquerque-confirma-se",
@@ -1014,7 +1014,7 @@
             "candidato": "AV",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-as-ultimas-sondagens-dao-a-ad-na-frente",
@@ -1026,7 +1026,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-os-inspetores-da-policia-judiciaria-podem-ter-filiacao-partidaria",
@@ -1038,7 +1038,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-quando-estava-no-psd-andre-ventura-achava-que-eu-devia-ser-lider",
@@ -1050,7 +1050,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-chega-nao-cresceu-mais-que-a-ad-nos-acores-em-termos-de-votos",
@@ -1062,7 +1062,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-banca-cobra-65-milhoes-de-euros-por-dia-em-comissoes-taxas-e-taxinhas",
@@ -1074,7 +1074,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-portugal-e-o-4-o-pais-da-europa-com-mais-projetos-de-hoteis-em-construcao",
@@ -1086,7 +1086,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-o-pan-apresentou-uma-proposta-que-visava-a-valorizacao-dos-bombeiros-e-que-foi-rejeitada-pelo-ps-e-psd",
@@ -1098,7 +1098,7 @@
             "candidato": "ISR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-a-primeira-lei-de-protecao-dos-animais-tem-o-cunho-do-psd",
@@ -1110,7 +1110,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-sns-faz-mais-cirurgias-e-consultas-hoje-do-que-em-2015",
@@ -1122,7 +1122,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-repete-nos-ultimos-oito-anos-o-ps-nao-cortou-nem-um-centimo-as-pensoes",
@@ -1134,7 +1134,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-portugal-e-um-pais-da-ocde-e-da-europa-com-uma-maior-carga-fiscal",
@@ -1146,7 +1146,7 @@
             "candidato": "ISR",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-quem-esteve-unido-ao-ps-durante-seis-anos-foi-o-pcp",
@@ -1158,7 +1158,7 @@
             "candidato": "LM",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-psd-quer-aumentar-pensoes-mas-nao-acompanhou-proposta-do-pcp-para-esse-efeito",
@@ -1170,7 +1170,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-o-governo-do-ps-nao-fez-nenhum-corte-de-pensoes",
@@ -1182,7 +1182,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-portugal-tem-a-oitava-maior-reserva-de-litio-do-mundo",
@@ -1194,7 +1194,7 @@
             "candidato": "PNS",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-psd-esta-associado-a-maior-valorizacao-de-sempre-das-pensoes-que-foi-a-instituicao-do-14-o-mes",
@@ -1206,7 +1206,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/psd-votou-contra-propostas-do-il-sobre-reducao-de-irs-reforma-na-saude-e-no-sistema-eleitoral",
@@ -1218,7 +1218,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-portugal-teve-reducao-da-taxa-de-abandono-escolar-tremenda-nos-ultimos-anos",
@@ -1230,7 +1230,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-ha-um-estudo-que-mostra-que-o-grande-foco-da-corrupcao-esta-na-administracao-local",
@@ -1242,7 +1242,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-pcp-defende-saida-da-uniao-europeia-e-do-euro-no-programa-eleitoral",
@@ -1254,7 +1254,7 @@
             "candidato": "AV",
             "evaluation": "imprecise",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-estudo-diz-que-o-parque-publico-disponivel-para-arrendamento-aumentou-55-no-ultimo-trimestre",
@@ -1266,7 +1266,7 @@
             "candidato": "PNS",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-portugal-e-um-dos-paises-da-ocde-que-esta-a-investir-menos-na-educacao",
@@ -1278,7 +1278,7 @@
             "candidato": "RT",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-tres-milhoes-de-trabalhadores-ganham-ate-mil-euros-de-salario-bruto-por-mes",
@@ -1290,7 +1290,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/mariana-mortagua-na-cmtv-chega-defende-que-se-volte-a-introduzir-os-vistos-gold",
@@ -1302,7 +1302,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-existem-145-mil-criancas-em-portugal-que-nao-tem-medico-de-familia",
@@ -1314,7 +1314,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-il-quis-retirar-palavra-progressividade-da-constituicao",
@@ -1326,7 +1326,7 @@
             "candidato": "ISR",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/programa-eleitoral-chega-propos-isencao-do-iva-na-compra-da-primeira-habitacao-mas-casas-nao-pagam-iva-em-portugal",
@@ -1338,7 +1338,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-a-receita-de-imt-subiu-73-nos-ultimos-dois-anos",
@@ -1350,7 +1350,7 @@
             "candidato": "MM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/rui-rocha-com-o-partido-socialista-nao-ha-crescimento-economico",
@@ -1362,7 +1362,7 @@
             "candidato": "RR",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/ines-sousa-real-na-cmtv-pan-foi-o-partido-da-oposicao-que-mais-medidas-aprovou-neste-mandato",
@@ -1374,7 +1374,7 @@
             "candidato": "ISR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/jose-manuel-bolieiro-ps-ja-formou-governo-com-maioria-relativa-nos-acores-e-contou-com-o-psd-e-cds-para-viabilizar",
@@ -1386,7 +1386,7 @@
             "candidato": "",
             "evaluation": false,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-no-ultimo-ano-1-700-enfermeiros-fizeram-pedidos-para-sair-do-pais",
@@ -1398,7 +1398,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-jovens-emigravam-bem-mais-no-tempo-da-troika",
@@ -1410,7 +1410,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/andre-ventura-somos-o-unico-partido-que-entende-que-a-imigracao-em-portugal-deve-ser-controlada",
@@ -1422,7 +1422,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/psd-votou-contra-reconversao-de-edificio-em-residencia-universitaria-agora-promovida-por-moedas",
@@ -1434,7 +1434,7 @@
             "candidato": "",
             "evaluation": false,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-na-cmtv-em-portugal-40-das-empresas-nao-pagam-irc",
@@ -1446,7 +1446,7 @@
             "candidato": "PNS",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-iniciativa-liberal-propunha-ha-dois-anos-construir-100-mil-casas-mas-agora-ja-subiu-para-250-mil",
@@ -1458,7 +1458,7 @@
             "candidato": "RT",
             "evaluation": "decontextualized",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-tavares-10-de-parque-publico-em-portugal-continua-a-ser-menos-do-que-existe-em-varios-paises-europeus",
@@ -1470,7 +1470,7 @@
             "candidato": "RT",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-na-cmtv-depois-de-a-direita-ter-cortado-pensoes-nos-fizemos-varios-aumentos",
@@ -1482,7 +1482,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/pedro-nuno-santos-disse-na-cmtv-que-reposicao-integral-do-tempo-de-servico-dos-professores-e-uma-questao-de-principio-mas-votou-contra-no-parlamento",
@@ -1494,7 +1494,7 @@
             "candidato": "",
             "evaluation": true,
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-na-holanda-quem-ganha-35-mil-euros-por-ano-tem-taxa-de-9-de-irs-em-portugal-tem-37",
@@ -1506,7 +1506,7 @@
             "candidato": "RR",
             "evaluation": "imprecise",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-em-portugal-temos-150-mil-rendas-congeladas",
@@ -1518,7 +1518,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rocha-acusa-ventura-de-mentir-quando-disse-que-braga-tem-30-de-imigrantes-tem-razao",
@@ -1530,7 +1530,7 @@
             "candidato": "RR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-imigracao-tem-de-ser-controlada-e-isso-esta-no-programa-do-iniciativa-liberal",
@@ -1542,7 +1542,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-andre-ventura-nega-ter-proposto-taxar-as-gasolineiras-tem-razao",
@@ -1554,7 +1554,7 @@
             "candidato": "AV",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-mais-de-3-milhoes-e-300-mil-portugueses-tiveram-necessidade-de-contratar-seguros-de-saude",
@@ -1566,7 +1566,7 @@
             "candidato": "LM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-luis-montenegro-bloco-de-esquerda-nao-tem-propostas-para-baixar-os-precos-das-casas",
@@ -1578,7 +1578,7 @@
             "candidato": "LM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-culpa-psd-de-nunca-ter-apoiado-a-descida-do-iva-da-energia-tem-razao",
@@ -1590,7 +1590,7 @@
             "candidato": "MM",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-mariana-mortagua-portugal-e-o-3-o-pais-do-mundo-com-precos-mais-caros-da-habitacao",
@@ -1602,7 +1602,7 @@
             "candidato": "MM",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-todos-os-anos-perdemos-mais-de-19-mil-milhoes-de-euros-para-a-corrupcao",
@@ -1614,7 +1614,7 @@
             "candidato": "ISR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-paulo-raimundo-metade-do-orcamento-da-saude-vai-para-o-privado",
@@ -1626,7 +1626,7 @@
             "candidato": "PR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/governacao-de-socrates-divida-publica-aumentou-de-60-para-120-do-pib-e-defice-atingiu-10",
@@ -1638,7 +1638,7 @@
             "candidato": "",
             "evaluation": "true-but",
             "confidenceLevel": -1,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-temos-cada-vez-mais-jovens-a-emigrar-e-30-ja-estao-la-fora",
@@ -1650,7 +1650,7 @@
             "candidato": "ISR",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-chega-foi-o-unico-partido-a-crescer-verdadeiramente-nas-eleicoes-dos-acores",
@@ -1662,7 +1662,7 @@
             "candidato": "AV",
             "evaluation": true,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-ines-sousa-real-o-pan-foi-o-partido-que-mais-medidas-fez-avancar-no-parlamento",
@@ -1674,7 +1674,7 @@
             "candidato": "ISR",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-prometeu-que-a-tap-devolveria-ao-estado-dinheiro-injetado-na-empresa",
@@ -1683,10 +1683,10 @@
             "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
             "category": "/fact-checks/politica",
             "page": 7,
-            "candidato": "",
+            "candidato": "RR",
             "evaluation": true,
-            "confidenceLevel": -1,
-            "": ""
+            "confidenceLevel": 0,
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-no-ultimo-trimestre-portugal-foi-o-pais-que-cresceu-mais-em-toda-a-uniao-europeia",
@@ -1698,7 +1698,7 @@
             "candidato": "PNS",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-rui-rocha-a-taxa-de-desemprego-dos-jovens-em-portugal-e-hoje-de-235",
@@ -1710,7 +1710,7 @@
             "candidato": "RR",
             "evaluation": "true-but",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/debates-2024-pedro-nuno-santos-recusa-ter-prometido-habitacao-digna-para-todos-ate-2024-tem-razao",
@@ -1722,7 +1722,7 @@
             "candidato": "PNS",
             "evaluation": false,
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
         },
         {
             "url": "/fact-check/mariana-mortagua-acusa-a-direita-de-ter-privatizado-a-edp-tem-razao",
@@ -1734,7 +1734,439 @@
             "candidato": "MM",
             "evaluation": "decontextualized",
             "confidenceLevel": 0,
-            "": ""
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/ventura-imita-trump-e-bolsonaro-ao-lancar-suspeitas-de-fraude-sobre-processo-eleitoral",
+            "title": "Ventura imita Trump e Bolsonaro ao lançar suspeitas de fraude sobre processo eleitoral?",
+            "excerpt": "Está em curso uma tentativa de desvirtuar estas eleições\", acusou ontem o líder do Chega, em comício na Figueira da Foz, evocando vídeos nas redes sociais \"de pessoas a dizer que vão anular os votos do Chega, além de \"e-mails\" que diz ter recebido \"de pessoas que não conseguem votar\" nos círculos da emigração.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-visitou-obra-de-linha-ferroviaria-entre-sines-e-elvas-que-foi-candidatura-e-projeto-do-governo-de-passos-coelho",
+            "title": "Pedro Nuno Santos visitou obra de linha ferroviária entre Sines e Elvas que foi “candidatura e projeto do Governo de Passos Coelho\"?",
+            "excerpt": "Em iniciativa da campanha eleitoral, o líder do PS visitou esta semana a obra de um troço do Corredor Internacional Sul, projeto de ligação ferroviária entre Sines e Elvas. O desenvolvimento da ferrovia tem sido um tema recorrente na campanha e discurso político do ex-ministro das Infraestruturas. Mas relativamente a esta obra em particular, no X/Twitter há quem sublinhe que resultou de \"uma candidatura e projeto do Governo de Passos Coelho que, 10 anos depois, continua por acabar\".",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": "true-but",
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/antonio-costa-entre-2011-e-2015-a-divida-publica-esteve-sempre-a-subir",
+            "title": "António Costa: \"Entre 2011 e 2015, a dívida [pública] esteve sempre a subir",
+            "excerpt": "Num discurso focado quase exclusivamente em defender o legado dos últimos oito anos de governação do PS, esta noite em comício no Porto, o ainda Primeiro-Ministro destacou as \"contas certas\" da redução do peso da dívida pública, até um nível inferior a 100% do PIB, em contraste com o anterior Governo de Pedro Passos Coelho (coligação PSD/CDS-PP) em que a dívida pública \"esteve sempre a subir\". Verificação de factos.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": "true-but",
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/nuno-melo-garante-que-paulo-nuncio-nao-falou-sobre-necessidade-de-voltar-a-referendar-a-questao-do-aborto-e-verdade",
+            "title": "Nuno Melo garante que Paulo Núncio não falou sobre necessidade de voltar a referendar a questão do aborto. É verdade?",
+            "excerpt": "Na quarta-feira, 28 de fevereiro, o líder do CDS-PP foi instado a comentar as declarações do vice-presidente do seu partido \"sobre a necessidade de voltar a fazer um referendo sobre o aborto\". Em resposta a um jornalista, Nuno Melo foi taxativo: \"O Paulo Núncio não disse nada disso.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-apropriou-se-da-expressao-choque-salarial-que-ja-tinha-sido-lancada-por-paulo-raimundo",
+            "title": "Pedro Nuno Santos apropriou-se da expressão \"choque salarial\" que já tinha sido lançada por Paulo Raimundo?",
+            "excerpt": "Ao longo dos últimos dias, o secretário-geral do PS tem vindo a defender que, em vez do \"choque fiscal\" proposto pelos partidos da direita, a melhor solução para o desenvolvimento do país é um \"choque salarial\". Mas no X/Twitter alega-se que essa expressão - \"choque salarial\" - terá sido copiada do discurso de Paulo Raimundo, líder do PCP.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/socrates-admitiu-em-2011-que-aumentou-impostos-congelou-pensoes-e-cortou-salarios-e-beneficios-sociais",
+            "title": "Sócrates admitiu em 2011 que aumentou impostos, congelou pensões e cortou salários e benefícios sociais?",
+            "excerpt": "Do Instagram ao Facebook, está a ser difundido um excerto em vídeo de um debate em que José Sócrates admite ter cortado nos salários, nas pensões e nos benefícios sociais, além de ter aumentado os impostos. Aponta-se que se deve mostrar \"isto ao Pedro Nuno Santos\" e \"às velhinhas que o PS andou a enganar\".",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/nuno-melo-alianca-democratica-concretizou-antecipacao-da-construcao-do-alqueva-em-10-anos",
+            "title": "Nuno Melo: Aliança Democrática concretizou \"antecipação da construção do Alqueva em 10 anos",
+            "excerpt": "A declaração foi proferida pelo líder do CDS-PP em pleno comício da Aliança Democrática (AD), em Évora, quarta-feira à noite. Nuno Melo sublinhou a importância do setor da Agricultura para a AD que, em versão anterior, terá garantido a \"antecipação da construção do Alqueva em 10 anos\". É verdade?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": "true-but",
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/aborto-luis-montenegro-consideracoes-de-paulo-nuncio-foram-feitas-a-titulo-pessoal",
+            "title": "Aborto. Luís Montenegro: Considerações de Paulo Núncio foram feitas a título “pessoal”",
+            "excerpt": "Em publicação no X/Twitter acusa-se o presidente do PSD, Luís Montenegro, de “mentir com todos os dentes”, ao ter dito que as considerações feitas por Paulo Núncio (vice-presidente do CDS-PP) sobre a lei do aborto foram simplesmente uma “opinião” de natureza “pessoal”, não vinculando a Aliança Democrática. O Polígrafo confere.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "LM",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/cabeca-de-lista-da-ad-por-santarem-defendeu-que-portugal-esta-a-perder-milhoes-em-investimento-por-falsas-razoes-climaticas",
+            "title": "Cabeça-de-lista da AD por Santarém defendeu que Portugal está a perder milhões em investimento por \"falsas razões climáticas\"?",
+            "excerpt": "Eduardo Oliveira Sousa discursou ontem à noite (29 de fevereiro) num comício da AD em Ourém, com enfoque nas políticas do setor da Agricultura. Uma intervenção que motivou críticas de adversários políticos e também nas redes sociais, por ter utilizado a expressão \"falsas razões climáticas\". Há mesmo quem o acuse de \"negacionismo climático\". O Polígrafo verifica.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": "true-but",
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/nuno-melo-o-desemprego-jovem-em-portugal-esta-proximo-de-20",
+            "title": "Nuno Melo: \"O desemprego jovem em Portugal está próximo de 20%",
+            "excerpt": "Respondendo a uma provocação sobre a juventude do seu antecessor na liderança do CDS-PP, no programa \"Isto é gozar com quem trabalha - Especial outra vez eleições\" da SIC, ontem à noite, Melo defendeu que não se deve \"depreciar\" a juventude que \"vive muitas dificuldades\" em Portugal. Desde logo com uma taxa de desemprego de cerca de 20%.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/pedro-nuno-santos-estamos-hoje-ao-nivel-dos-paises-mais-desenvolvidos-da-europa-na-qualificacao-dos-jovens",
+            "title": "Pedro Nuno Santos: \"Estamos hoje ao nível dos países mais desenvolvidos da Europa\" na qualificação dos jovens",
+            "excerpt": "Em discurso focado nos jovens, ontem à noite num comício em Portalegre, o líder do PS destacou que \"o país foi capaz de qualificar a sua juventude\", através de \"um salto impressionante\" em \"poucos anos\". Ao ponto de estar hoje \"ao nível dos países mais desenvolvidos da Europa\"? O Polígrafo verifica.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "PNS",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/mariana-mortagua-o-meu-pai-foi-condenado-a-prisao-perpetua-pela-pide",
+            "title": "Mariana Mortágua: \"O meu pai foi condenado a prisão perpétua pela PIDE",
+            "excerpt": "No programa matinal \"Dois às 10\", da TVI, a líder do Bloco de Esquerda revelou que pede conselhos aos que \"têm anos de política às costas\", sublinhando que nas situações \"mais difíceis\" importa recordar os tempos da ditadura em que se fazia política na clandestinidade. Nesse sentido evocou o seu pai, Camilo Mortágua, recordando que foi \"condenado a prisão perpétua pela PIDE\". Esta última alegação é verdadeira?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "MM",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/psd-impos-reversoes-a-lei-do-aborto-quando-montenegro-era-lider-da-bancada-parlamentar",
+            "title": "PSD \"impôs reversões à lei do aborto\" quando Montenegro era líder da bancada parlamentar?",
+            "excerpt": "Ao discursar num comício do Bloco de Esquerda em Almada, a 27 de fevereiro, Joana Mortágua acusou Luís Montenegro de se ter posicionado \"contra o direito ao aborto sempre que pôde no Parlamento\", inclusive através de \"reversões à lei\", quando liderava a bancada do PSD.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/confirma-se-que-o-ppm-e-anti-nato-como-o-pcp-e-o-bloco-de-esquerda",
+            "title": "Confirma-se que \"o PPM é anti-NATO\" como o PCP e o Bloco de Esquerda?",
+            "excerpt": "Luís Montenegro (PSD) criticou Pedro Nuno Santos (PS) por admitir entendimentos com \"partidos políticos que defendem que Portugal não deve estar na NATO\". Quase instantaneamente, no X/Twitter propagou-se o rumor de que também o PPM, que integra a coligação Aliança Democrática com o PSD e o CDS-PP, \"é anti-NATO\" ou defende mesmo a saída de Portugal da NATO. Verdadeiro ou falso?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/videos-de-propaganda-politica-paga-nas-redes-sociais-ou-youtube-estao-proibidos-durante-campanha-eleitoral",
+            "title": "Vídeos de propaganda política paga nas redes sociais ou YouTube estão proibidos durante campanha eleitoral?",
+            "excerpt": "Um suposto vídeo publicitário está a ser denunciado nas redes sociais por ter cariz político-partidário e origem numa página criada \"três dias antes do início oficial da campanha eleitoral\" para as eleições legislativas. Há quem alegue que \"viola as regras em vigor\", exigindo \"a intervenção imediata\" da Comissão Nacional de Eleições. O Polígrafo verifica.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/carlos-moedas-nos-temos-12-unicornios-com-sede-em-lisboa",
+            "title": "Carlos Moedas: \"Temos 12 'unicórnios' com sede em Lisboa",
+            "excerpt": "Em entrevista no programa \"Isto é gozar com quem trabalha - Especial outra vez eleições\" da SIC, o presidente da Câmara de Lisboa destacou que a cidade \"atrai muitas empresas tecnológicas\", inclusive mais de uma dezena de \"unicórnios\" (empresas com valorização superior a mil milhões de dólares que não estão cotadas em bolsa). Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-imprecise",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": "imprecise",
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/luis-montenegro-apos-ser-atingido-por-tinta-verde-foi-o-psd-que-aprovou-a-primeira-lei-de-bases-do-ambiente",
+            "title": "Luís Montenegro após ser atingido por tinta verde: \"Foi o PSD que aprovou a primeira Lei de Bases do Ambiente",
+            "excerpt": "O líder do PSD foi esta manhã atingido por tinta verde numa ação de protesto organizada por ativistas do movimento \"Fim ao Fóssil: Ocupa!\", em Lisboa. Na primeira reação ao ataque, Montenegro defendeu que \"a política ambiental do PSD foi sempre de primeira linha\" e apontou para o exemplo da primeira Lei de Bases do Ambiente. Verificação de factos.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "LM",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/andre-ventura-nunca-dissemos-que-deviamos-fechar-as-portas-a-quem-foge-da-guerra-fome-ou-qualquer-ataque",
+            "title": "André Ventura: \"Nunca dissemos que devíamos fechar as portas a quem foge da guerra, fome ou qualquer ataque",
+            "excerpt": "Ao discursar ontem em Guimarães, no âmbito da campanha eleitoral do Chega, Ventura garantiu que o seu partido nunca defendeu que se deveria \"fechar as portas a quem foge da perseguição, guerra, da fome ou de qualquer tipo de ataque à sua vida ou da sua família\", mas \"aquilo que era uma imigração localizada, tornou-se uma imigração descontrolada\".",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "AV",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/legislativas-2024-fotografar-e-mostrar-boletim-de-voto-ja-preenchido-e-ilegal",
+            "title": "Legislativas 2024. Fotografar e mostrar boletim de voto já preenchido \"é ilegal\"?",
+            "excerpt": "A dúvida surgiu no X/Twitter, onde uma eleitora partilhou uma imagem do seu boletim de voto (antecipado) com a cruz assinalada no quadrado referente à CDU (PCP-PEV). Em resposta há quem questione sobre se ao exibir essa imagem não estará a cometer uma ilegalidade. O Polígrafo esclarece.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/montenegro-e-um-grande-copiao-ventura-ja-tinha-dito-que-se-demitiria-se-nao-cumprisse-promessa-sobre-pensoes",
+            "title": "Montenegro é um grande copião\". Ventura já tinha dito que se demitiria se não cumprisse promessa sobre pensões?",
+            "excerpt": "À margem de um jantar-comício do Chega em Guimarães, ontem à noite, André Ventura acusou o rival do PSD de ser um \"copião\", ao prometer que se demitirá \"se algum dia tiver que cortar um cêntimo\" numa pensão de reforma. O líder do Chega recorda que já tinha dito algo similar há pouco mais de um mês. Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 1,
+            "candidato": "AV",
+            "evaluation": "true-but",
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/vice-presidente-do-chega-garante-que-partido-nunca-defendeu-limitacao-ao-acolhimento-de-refugiados-de-guerra-e-verdade",
+            "title": "Vice-presidente do Chega garante que partido nunca defendeu \"limitação ao acolhimento de refugiados de guerra\". É verdade?",
+            "excerpt": "No debate que juntou hoje oito cabeças-de-lista do círculo de Lisboa, o tema da imigração não faltou, motivado pelo discurso de Pedro Passos Coelho na véspera. A candidata do Chega, Marta Trindade, fez questão de notar que o seu partido \"defende exatamente o mesmo que a AD\" nesta matéria e assegurou que \"nunca, em momento algum, fez qualquer limitação ao acolhimento de refugiados de guerra\".",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/passos-coelho-associa-imigracao-a-falta-de-seguranca-criminalidade-tem-crescido-com-aumento-de-imigrantes-em-portugal",
+            "title": "Passos Coelho associa imigração a falta de segurança. Criminalidade tem crescido com aumento de imigrantes em Portugal?",
+            "excerpt": "Ao discursar ontem no comício da AD em Faro, o ex-líder do PSD avisou que \"precisamos de ter um país aberto à imigração, mas cuidado que precisamos também de ter um país seguro\". Referiu depois que \"hoje as pessoas sentem uma insegurança\", em sugestão implícita de que isso resulta do aumento da imigração. Nas redes sociais também se interpreta como uma ligação entre imigração e criminalidade.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/cecilia-meireles-uma-pessoa-que-ganhe-1-000-e-poucos-euros-nao-tem-qualquer-tipo-de-apoio-judiciario",
+            "title": "Cecília Meireles: \"Uma pessoa que ganhe 1.000 e poucos euros não tem qualquer tipo de apoio judiciário",
+            "excerpt": "No programa \"Linhas Vermelhas\" da SIC Notícias, ontem à noite, Cecília Meireles (ex-deputada do CDS-PP) e Catarina Martins (ex-líder do BE) debateram a situação da Justiça em Portugal e convergiram em pelo menos uma reforma que consideram ser necessária: promover o \"acesso à Justiça\" que presentemente é demasiado \"caro\" para a maior parte da população.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/carlos-moedas-ha-20-anos-que-o-rock-in-rio-esta-em-lisboa-e-ha-20-anos-que-nao-paga-taxas-municipais",
+            "title": "Carlos Moedas: \"Há 20 anos que o 'Rock in Rio' está em Lisboa e há 20 anos que não paga taxas municipais",
+            "excerpt": "No programa \"Isto é gozar com quem trabalha - Especial outra vez eleições\" da SIC, ontem à noite, ao entrevistar o presidente da Câmara de Lisboa, o humorista Ricardo Araújo Pereira questionou-o sobre a decisão de isentar o festival \"Rock in Rio\" de taxas municipais \"no valor de 3 milhões de euros\". Na resposta, Moedas garantiu que não fez \"nada de diferente\", pois a isenção de taxas tem sido aplicada desde a primeira edição do festival em 2004, além de chamar o Polígrafo para verificar. Aqui estamos... e obrigado pelo convite.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/luis-montenegro-reduzimos-a-taxa-de-irc-em-2014-e-no-final-do-ano-a-receita-de-irc-aumentou",
+            "title": "Luís Montenegro: \"Reduzimos a taxa de IRC em 2014 e, no final do ano, a receita de IRC aumentou",
+            "excerpt": "É um dos pilares do programa económico da Aliança Democrática em 2024: redução gradual da taxa de IRC para 15%. Ao discursar ontem à noite num comício em Faro, o líder do PSD voltou a defender essa prioridade, com o objetivo de atrair investimento e alavancar o crescimento económico. Sem descurar a solidez das contas públicas. Nesse sentido recordou que o Governo de Pedro Passos Coelho reduziu essa taxa \"em 2014 e, no final do ano, a receita fiscal em sede de IRC aumentou\". Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "LM",
+            "evaluation": false,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/luis-montenegro-tres-milhoes-e-300-mil-portugueses-tem-hoje-a-subscricao-de-um-seguro-de-saude",
+            "title": "Luís Montenegro: \"Três milhões e 300 mil portugueses têm hoje a subscrição de um seguro de saúde",
+            "excerpt": "Em comício na cidade algarvia de Faro, e já depois do tão aguardado discurso de Pedro Passos Coelho, o atual líder do PSD, Luís Montenegro, optou por destacar as lacunas que identifica nas políticas adotadas pelo PS, em oito anos de governação, no setor da Saúde. Nesse âmbito afirmou que \"nunca tantos portugueses, para além dos impostos, tiveram de pagar seguros de saúde: três milhões e 300 mil portugueses têm hoje a subscrição de um seguro de saúde\".",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "LM",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/sondagem-coloca-chega-na-lideranca-das-intencoes-de-voto-em-empate-tecnico-com-ps-e-ad",
+            "title": "Sondagem coloca Chega na liderança das intenções de voto em empate técnico com PS e AD?",
+            "excerpt": "Está a ser difundido nas redes sociais o suposto resultado de uma recente sondagem da Universidade Católica para as próximas eleições legislativas: 26,7% das intenções de voto para o PS, 25,2% para a AD e 24,6% para o Chega. Ou seja, um empate técnico entre os três, pois a margem de erro é de 2,8%. Verdadeiro ou falso?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-false",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": false,
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-ines-sousa-real-mulheres-advogadas-nao-tem-apoio-na-maternidade-e-na-doenca",
+            "title": "DEBATES 2024. Inês Sousa Real: \"Mulheres advogadas não têm apoio na maternidade e na doença",
+            "excerpt": "A deputada única do PAN recorreu ao exemplo da Caixa de Previdência dos Advogados e Solicitadores, \"a única que continua a ser privada\", para criticar a proposta de privatização parcial da Segurança Social dos liberais. Sousa Real argumentou que esta gera desproteção social por não garantir apoios em caso de maternidade ou doença a advogadas e solicitadoras. Verdade?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "ISR",
+            "evaluation": "true-but",
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-luis-montenegro-o-ps-admite-estar-de-mao-dada-no-governo-com-forcas-politicas-que-consideram-nao-estar-na-nato",
+            "title": "DEBATES 2024. Luís Montenegro: \"O PS admite estar de mão dada no Governo com forças políticas\" que consideram \"não estar na NATO",
+            "excerpt": "No último encontro entre os líderes dos oito partidos com assento parlamentar (à exceção de André Ventura), o líder dos sociais-democratas, que chegou atrasado 15 minutos, recuperou rapidamente o tempo de intervenção - mesmo sem discutir governabilidade. Luís Montenegro deu preferência às acusação ao PS, que, diz, pondera dar a mão a \"forças políticas que admitem não estar na NATO\". Verdade?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "LM",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-rui-tavares-montenegro-disse-em-2016-que-se-abstinha-entre-trump-e-clinton",
+            "title": "DEBATES 2024. Rui Tavares: \"Montenegro disse em 2016 que se abstinha entre Trump e Clinton",
+            "excerpt": "No debate da rádio, esta manhã, o porta-voz do Livre, Rui Tavares, acusou os partidos da direita de não serem assim tão claros quanto apregoam no que toca a possíveis cenários de governação no período pós-eleições. E recordou a posição assumida pelo então líder parlamentar do PSD, Luís Montenegro, no contexto das eleições presidenciais dos EUA em 2016, para ilustrar o que considera ser uma incoerência.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "RT",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-pedro-nuno-santos-a-pobreza-reduziu-nos-ultimos-anos-mas-tivemos-uma-inversao-em-2023",
+            "title": "DEBATES 2024. Pedro Nuno Santos: \"A pobreza reduziu nos últimos anos, mas tivemos uma inversão\" em 2022",
+            "excerpt": "Logo na abertura do debate da rádio, esta manhã, o líder do PS reconheceu que \"a pobreza é um dos nossos maiores desafios\". E embora tenha diminuído \"nos últimos anos\", houve \"uma inversão\" em 2022, o ano mais recente com dados do INE já divulgados. O Polígrafo verifica.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "PNS",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-paulo-raimundo-gastamos-1-000-milhoes-de-euros-por-ano-nas-rendas-das-ppp-rodoviarias",
+            "title": "DEBATES 2024. Paulo Raimundo: \"Gastamos 1.000 milhões de euros por ano nas rendas das PPP rodoviárias",
+            "excerpt": "No debate da rádio, esta manhã, o secretário-geral do PCP criticou os \"grandes pactos entre o PS e o PSD\", nomeadamente \"o pacto de prolongamento das PPP rodoviárias\". Pelo que lançou o desafio de não renovar essas PPP que, sublinhou, implicam uma despesa de \"1.000 milhões de euro por ano\" para o Estado.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "PR",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/debates-2024-mariana-mortagua-portugal-tem-20-da-populacao-prisional-em-prisao-preventiva",
+            "title": "DEBATES 2024. Mariana Mortágua: \"Portugal tem 20% da população prisional em prisão preventiva",
+            "excerpt": "No debate das rádios, a decorrer esta manhã, a coordenadora do Bloco de Esquerda lembrou que um dos problemas da Justiça é que Portugal \"aplica das penas mais altas da Europa\" e \"tem 20% da população prisional em prisão preventiva\". Tem razão?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "MM",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/antonio-costa-acusa-os-outros-psd-de-quererem-ir-alem-da-troika-tem-razao",
+            "title": "António Costa acusa \"os outros [PSD]\" de quererem ir \"além da 'troika'\". Tem razão?",
+            "excerpt": "É a primeira vez que o ex-líder dos socialistas entra na campanha para as legislativas de 10 de março. Num vídeo curto - tempo de antena -, António Costa elogia Pedro Nuno Santos, mas é o foco no PSD (e o recurso a Pedro Passos Coelho) que sobressai: \"Ninguém melhor do que os pensionistas sabe qual é a verdade, e a verdade é que o PS lhes devolveu as pensões que tinham sido cortadas. Os outros iam 'além da troika'.\" Confirma-se?",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true",
+            "category": "/fact-checks/politica",
+            "page": 2,
+            "candidato": "",
+            "evaluation": true,
+            "confidenceLevel": 0,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/quadro-que-compara-desempenhos-de-portugal-e-irlanda-no-pos-troika-tem-dados-corretos",
+            "title": "Quadro que compara desempenhos de Portugal e Irlanda no pós-\"Troika\" tem dados corretos?",
+            "excerpt": "Do crescimento económico ao salário médio ou taxa de imposto sobre lucros, o quadro apresenta dados sobre cinco indicadores económicos no âmbito de uma comparação entre Portugal e Irlanda \"cinco anos depois da 'Troika'\". Verificação de factos.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-decontextualized",
+            "category": "/fact-checks/politica",
+            "page": 9,
+            "candidato": "",
+            "evaluation": "decontextualized",
+            "confidenceLevel": -1,
+            "/0": ""
+        },
+        {
+            "url": "/fact-check/rui-rocha-diz-que-portugal-tem-a-mais-alta-taxa-de-irc-da-europa-confirma-se",
+            "title": "Rui Rocha diz que Portugal tem \"a mais alta taxa de IRC da Europa\". Confirma-se?",
+            "excerpt": "Na apresentação do programa com que o partido Iniciativa Liberal concorre às próximas eleições legislativas, esta tarde em Lisboa, o líder Rui Rocha prometeu \"baixar o IRC\", para que Portugal deixe de cobrar \"a mais alta taxa da Europa\". Verificação de factos.",
+            "classes": "[ half-padding _clearfix ] fact-check fact-check-evaluation-true-but",
+            "category": "/fact-checks/politica",
+            "page": 9,
+            "candidato": "RR",
+            "evaluation": "true-but",
+            "confidenceLevel": 0,
+            "/0": ""
         }
     ]
 }
